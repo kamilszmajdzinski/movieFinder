@@ -1,4 +1,5 @@
-# movieFinder
+# Amazing Movie Finder
 [Open Movie Database](http://www.omdbapi.com/) API based app. Created with react and redux.
 
-## Live demo [here](http://findmoviejs.herokuapp.com/)
+## Checkout live demo link below : 
+  [here](http://findmoviejs.herokuapp.com/)
